@@ -2,8 +2,8 @@
 This Android app calculates the Body Mass Index (BMI) based on user input for weight and height. It's a simple yet effective tool for assessing health based on BMI.
 
 ## Screenshots
-<img src="/results/image2.png" width="300"><img src="/results/image3.png" width="300">
-Screenshot 2
+<img src="/results/image1.png" width="250">&emsp;<img src="/results/image2.png" width="250">%emsp;<img src="/results/image3.png" width="250">
+
 
 ## Features
 Input fields for weight and height.
